@@ -1,0 +1,8 @@
+{
+  "name": "project-config_ts_eslint_prettier",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/OKuts/project-config_ts_eslint_prettier.git",
+  "author": "Ol_Kuts <kuts.ol.vas@gmail.com>",
+  "license": "MIT"
+}
